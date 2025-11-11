@@ -21,7 +21,7 @@ function DevLinkCard() {
                         <AvatarFallback>GF</AvatarFallback>
                     </Avatar>
                     <CardTitle>Gustavo Fernandes</CardTitle>
-                    <CardDescription>Desenvolvedor Front-end</CardDescription>
+                    <CardDescription>Desenvolvedor Full-Stack/Dev Mobol</CardDescription>
                 </CardHeader>
                 <CardContent className="flex flex-col gap-3">
                     <Button asChild variant="outline">
