@@ -2,7 +2,7 @@
 
 Este projeto é o resultado de um desafio de front-end proposto pela IA Gemini. O objetivo era construir um "hub de links" (similar a um Linktree) para desenvolvedores, utilizando um conjunto de tecnologias modernas e seguindo especificações claras.
 
-**Resultado no GitHub:** [github.com/gustavofvs/DevLink-Hub](https://github.com/gustavofvs/DevLink-Hub)
+**Resultado no GitHub:** [github.com/gustavofvs/DevLink-Hub]([https://github.com/gustavofvs/DevLink-Hub](https://devlink-hub.vercel.app/))
 
 ---
 
