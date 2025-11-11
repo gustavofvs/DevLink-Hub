@@ -1,12 +1,10 @@
-
-import { useState } from 'react'
 import { Button } from './components/ui/button'
 import { useTheme } from "@/components/theme-provider"
 import { Sun, Moon } from 'lucide-react'
 import DevLinkCard from './components/DevLinkCard'
 
 function App() {
-  const { theme, setTheme } = useTheme("");
+  const { theme, setTheme } = useTheme();
 
   const toggleTheme = () => {
     setTheme(theme === "dark" ? "light" : "dark");
